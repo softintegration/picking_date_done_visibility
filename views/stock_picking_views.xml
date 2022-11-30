@@ -11,7 +11,7 @@
                         <attribute name="attrs">{'readonly':[('state','=','done')],'invisible':[('state','not in',('confirmed','assigned','done'))]}</attribute>
                     </xpath>
                     <xpath expr="//field[@name='date_done']" position="attributes">
-                        <attribute name="groups">picking_date_done_visibility_settings.group_picking_date_done_visible</attribute>
+                        <attribute name="groups">picking_date_done_visibility.group_picking_date_done_visible</attribute>
                     </xpath>
                 </data>
             </field>

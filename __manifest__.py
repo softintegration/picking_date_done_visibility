@@ -2,7 +2,7 @@
 
 {
     'name': 'picking date done visibility settings',
-    'version': '1.0.1',
+    'version': '1.0.1.1',
     'author':'Soft-integration',
     'category': 'Sales',
     'summary': 'Configure the visibility of picking date done',
@@ -11,7 +11,7 @@
         'stock',
     ],
     'data': [
-        'security/picking_date_done_visibility_settings_security.xml',
+        'security/picking_date_done_visibility_security.xml',
         'views/stock_picking_views.xml'
     ],
     'installable': True,

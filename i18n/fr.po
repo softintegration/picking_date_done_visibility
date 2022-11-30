@@ -1,6 +1,6 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-# 	* picking_date_done_visibility_settings
+# 	* picking_date_done_visibility
 #
 msgid ""
 msgstr ""
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: \n"
 
-#. module: picking_date_done_visibility_settings
-#: model:res.groups,name:picking_date_done_visibility_settings.group_picking_date_done_visible
-msgid "See/Edit picking date done"
+#. module: picking_date_done_visibility
+#: model:res.groups,name:picking_date_done_visibility.group_picking_date_done_visible
+msgid "See/Edit picking date of Transfer"
 msgstr "Visualer/Modifier la date effective du transfert"
